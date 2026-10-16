@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/aura-banner.PNG" alt="Aura Wallet — The Crypto Wallet. You Actually Own." width="100%"/>
+<img src="aura-banner.PNG" alt="Aura Wallet — The Crypto Wallet. You Actually Own." width="100%"/>
 
 <br/>
 
