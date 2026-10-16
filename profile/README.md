@@ -1,163 +1,158 @@
 <div align="center">
 
-A U R A  W A L L E T
-
-The Crypto Wallet. You Actually Own.
-
-One wallet. A world of digital assets.
-
-A self-custody crypto wallet built for a multichain world — bringing digital assets, swaps, cross-chain transfers, and a seamless wallet experience together in one place.
-
-Website · GitHub · Contact Support
+<img src="assets/aura-banner.svg" alt="Aura Wallet — The Crypto Wallet. You Actually Own." width="100%"/>
 
 <br/>
-<img src="https://img.shields.io/badge/Wallet-Self--Custody-7664F5?style=for-the-badge" alt="Self Custody"/>
-<img src="https://img.shields.io/badge/Multi--Chain-Built%20for%20Web3-5661F6?style=for-the-badge" alt="Multichain"/>
-<img src="https://img.shields.io/badge/Experience-Designed%20for%20Everyone-242938?style=for-the-badge" alt="Designed for Everyone"/>
+
+### Your crypto. Your keys. Your world.
+
+**Aura Wallet is building a simpler, more connected way to experience self-custody and multichain finance.**
+
+<a href="https://aurawallets.org"><img src="https://img.shields.io/badge/Explore_Aura-aurawallets.org-6D6AFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Aura"/></a>
+<a href="https://github.com/aurawallets"><img src="https://img.shields.io/badge/GitHub-aurawallets-171923?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:support@aurawallets.org"><img src="https://img.shields.io/badge/Support-Contact_us-1D9BF0?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact support"/></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-SELF--CUSTODY-7C6CFF?style=flat-square" alt="Self custody"/>
+<img src="https://img.shields.io/badge/BUILT_FOR-MULTICHAIN-2AA9E0?style=flat-square" alt="Multichain"/>
+<img src="https://img.shields.io/badge/DESIGN-USER--FIRST-13B8A6?style=flat-square" alt="User first"/>
+
 </div>
 
-⸻
+---
 
-✦ Welcome to Aura
+## ✦ About Aura
 
-Aura Wallet is building a better way to experience crypto.
+Crypto is moving across chains, protocols, and ecosystems. The wallet experience should bring it all together—not make it more complicated.
 
-The digital asset ecosystem is expanding across hundreds of networks, tokens, and decentralized protocols. Managing it all shouldn’t require a fragmented collection of applications.
+**Aura Wallet is a self-custody crypto wallet designed around control, clarity, and a modern multichain experience.** We’re working to make it easier to manage supported digital assets, explore token swaps, and move assets across supported networks from one cohesive interface.
 
-Aura brings the experience closer to what crypto should be: intuitive, connected, and designed around the user.
+Our goal is to make powerful Web3 tools feel approachable without losing sight of what matters most: user ownership, careful engineering, and a great product experience.
 
-Our mission is to make self-custody and multichain finance more accessible through a wallet experience that combines thoughtful design with powerful Web3 functionality.
+> **Our principle:** Crypto should feel connected. Control should stay with the user.
 
-Whether you’re managing digital assets, exploring decentralized finance, swapping tokens, or moving assets between networks, Aura is built to bring your crypto experience together.
-
-◈ What We’re Building
+## ◈ The Aura experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🌐 Multichain by Design
+### 🔐 Self-custody mindset
+A wallet experience centred on user ownership and control. Recovery phrases and private keys should remain private and protected.
 
-Access digital assets across supported blockchain networks through a unified wallet experience.
+### 🌐 Multichain access
+A unified approach to supported EVM networks and other blockchain ecosystems, with coverage depending on the integrations available in the app.
 
-⇄ Swaps & Cross-Chain Transfers
-
-Discover token swaps and cross-chain routes designed to make moving between assets and networks simpler.
-
-</td>
-<td width="50%" valign="top">
-
-🔐 Self-Custody First
-
-Keep ownership and control of your wallet at the centre of your crypto experience.
-
-✧ A Better Wallet Experience
-
-A modern interface, thoughtful interactions, and a streamlined approach to managing digital assets.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-◉ Portfolio & Transactions
-
-Bring supported assets and transaction activity together to make your on-chain activity easier to navigate.
+### ⇄ Swaps & cross-chain routes
+Explore supported token swaps and cross-chain transfer routes through integrated decentralised protocols.
 
 </td>
 <td width="50%" valign="top">
 
-⚡ An Evolving Ecosystem
+### 📊 Portfolio & activity
+A clearer way to review supported assets and transaction activity across connected networks.
 
-Continuously improving the wallet, expanding integrations, and exploring better ways to interact with Web3.
+### ✨ Crafted interface
+A modern mobile-first experience with considered visual design, smooth interactions, and a focus on usability.
+
+### ⚙️ Evolving infrastructure
+Ongoing work on reliable network connectivity, token metadata, asset delivery, and wallet functionality.
 
 </td>
 </tr>
 </table>
 
-⛓️ One Wallet. Multiple Networks.
+## ⛓️ A multichain world
 
-Crypto shouldn’t feel disconnected simply because your assets live on different blockchains.
+Aura is being developed with support for multiple blockchain ecosystems. The exact availability of features depends on the network and integration.
 
-Aura is being developed with a multichain approach spanning EVM-compatible networks and other blockchain ecosystems, including Bitcoin, Solana, BNB Chain, TRON, Sui, and more, subject to supported integrations.
+```mermaid
+flowchart TD
+    A["AURA WALLET"] --> B["Manage assets"]
+    A --> C["Swap tokens"]
+    A --> D["Cross-chain transfers"]
+    A --> E["Review activity"]
+    B --> F["Supported blockchain networks"]
+    C --> G["Integrated swap protocols"]
+    D --> H["Supported bridge routes"]
+    E --> F
+    style A fill:#6558E8,color:#fff,stroke:#9B91FF
+    style B fill:#111827,color:#fff,stroke:#64748B
+    style C fill:#111827,color:#fff,stroke:#64748B
+    style D fill:#111827,color:#fff,stroke:#64748B
+    style E fill:#111827,color:#fff,stroke:#64748B
+```
 
-Our goal is simple: make interacting with different networks feel like one cohesive experience.
+**The direction:** less fragmentation, more clarity, and a more cohesive way to interact with Web3.
 
-Explore the multichain future: aurawallets.org
+## 🧩 Technology
 
-🔒 Your Assets. Your Control.
+Aura uses a modern cross-platform development approach and integrates with blockchain infrastructure and decentralised protocols.
 
-Self-custody is more than a feature. It’s a fundamental principle of how we believe people should interact with digital assets.
+| Area | Technologies / approach |
+|---|---|
+| Mobile application | React Native · Expo |
+| Application language | TypeScript |
+| Blockchain connectivity | RPC infrastructure and network-specific integrations |
+| Swaps | Integrated decentralised exchange protocols |
+| Cross-chain transfers | Supported bridge and routing providers |
+| Token visuals and metadata | Asset delivery and token metadata infrastructure |
 
-Aura is built around a user-first approach to wallet ownership and access.
+*This is a high-level overview, not a complete dependency inventory. Integrations and implementation details may evolve.*
 
-* Ownership matters. Your wallet should put you in control of your digital assets.
-* Security matters. Wallet functionality must be developed with careful attention to sensitive information and transaction handling.
-* Transparency matters. Clear communication and responsible development are essential to building trust.
-* User experience matters. Security and usability should work together, not against each other.
+## 🛡️ Security comes first
 
-Always protect your recovery phrase and private keys. Never share them with anyone claiming to represent Aura Wallet.
+Self-custody gives users control, but it also means users must protect their wallet credentials and carefully review what they sign.
 
-Self-custody does not eliminate blockchain risks, phishing, malicious contracts, or the possibility of user error. Always verify transactions before signing.
+- **Never share your recovery phrase or private keys.** Aura support will never need them.
+- **Verify every transaction.** Check the destination, network, token, amount, and fees before signing.
+- **Be alert to impersonation.** Only use official Aura channels and verify links.
+- **Understand on-chain risk.** Smart contracts, bridges, tokens, and blockchain transactions can carry risk.
 
-🛠️ Technology & Development
+Aura’s product and infrastructure continue to evolve. Do not interpret this README as a security audit, certification, or guarantee that every integration is risk-free.
 
-Aura Wallet is developed with a modern, cross-platform approach to mobile application development.
+## 🗺️ What we're working toward
 
-Our development ecosystem includes technologies and integrations such as:
+```mermaid
+flowchart LR
+    A["A more intuitive wallet"] --> B["Connected networks"]
+    B --> C["Simpler asset movement"]
+    C --> D["A better everyday Web3 experience"]
+    style A fill:#171A2C,color:#fff,stroke:#8175FF
+    style B fill:#171A2C,color:#fff,stroke:#8175FF
+    style C fill:#171A2C,color:#fff,stroke:#8175FF
+    style D fill:#4D43B8,color:#fff,stroke:#A69EFF
+```
 
-Technology	Role
-React Native	Cross-platform mobile application
-Expo	Mobile development and application tooling
-TypeScript	Type-safe application development
-Blockchain RPC infrastructure	Network connectivity and blockchain data
-Decentralized exchange integrations	Token swap functionality
-Cross-chain routing integrations	Supported bridging and asset transfers
-Cloud-based asset infrastructure	Efficient delivery of supported token and visual assets
+Our priorities are to keep improving the core wallet experience, strengthen reliability, expand supported integrations carefully, and make multichain tools easier to understand and use.
 
-The ecosystem continues to evolve as Aura expands its capabilities and integrations.
+## 🤝 Connect with Aura
 
-🚀 Our Vision
-
-We believe the next generation of crypto adoption will be shaped by products that make powerful technology feel simple.
-
-Not more complexity.
-
-Not more fragmentation.
-
-Just a better way to manage, move, and interact with digital assets.
-
-Aura is working toward a future where users can navigate the multichain ecosystem through one cohesive, thoughtfully designed wallet.
-
-Built for modern finance. Designed for the multichain world.
-
-🤝 Connect With Aura
-
-Have feedback, questions, or ideas? We’d love to hear from you.
-
-Resource	Link
-Official Website	aurawallets.org
-GitHub Organisation	github.com/aurawallets
-Support	support@aurawallets.org
-
-For support requests, never include your recovery phrase, private keys, passwords, or other sensitive wallet information.
-
-📌 Building in Public
-
-Follow our GitHub organisation to explore the projects, development work, and infrastructure behind Aura Wallet.
-
-As the ecosystem grows, this organisation will serve as a home for our engineering work and the technologies that power our vision.
-
-⸻
+Questions, feedback, or partnership enquiries? Reach out through the official channels below.
 
 <div align="center">
 
-A U R A  W A L L E T
+<a href="https://aurawallets.org"><img src="https://img.shields.io/badge/Website-Visit_Aura-6D6AFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://github.com/aurawallets"><img src="https://img.shields.io/badge/GitHub-Follow_our_work-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:support@aurawallets.org"><img src="https://img.shields.io/badge/Email-Support-147DCC?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email support"/></a>
 
-The Crypto Wallet. You Actually Own.
+</div>
 
-Website · GitHub
+For support requests, **never send passwords, recovery phrases, private keys, or other sensitive wallet information.**
 
-Building a more connected Web3 experience.
+---
+
+<div align="center">
+
+<img src="assets/aura-logo.png" alt="Aura Wallet app icon" width="76"/>
+
+### AURA WALLET
+
+**The Crypto Wallet. You Actually Own.**
+
+*Building a more connected Web3 experience.*
+
+<sub>© Aura Wallet. All rights reserved to their respective owners.</sub>
 
 </div>
