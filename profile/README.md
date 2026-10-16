@@ -4,9 +4,9 @@
 
 <br/>
 
-### Your crypto. Your keys. Your world.
+### Your crypto. Your keys. Your control.
 
-**Aura Wallet is building a simpler, more connected way to experience self-custody and multichain finance.**
+**Aura Wallet is building a simpler and most secured wallet, more connected way to experience self-custody and multichain finance.**
 
 <a href="https://aurawallets.org"><img src="https://img.shields.io/badge/Explore_Aura-aurawallets.org-6D6AFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Aura"/></a>
 <a href="https://github.com/aurawallets"><img src="https://img.shields.io/badge/GitHub-aurawallets-171923?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
